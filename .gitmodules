@@ -1,3 +1,6 @@
 [submodule "packages/home"]
 	path = packages/home
 	url = https://github.com/BuiThiDao/home.git
+[submodule "packages/theme_1"]
+	path = packages/theme_1
+	url = https://github.com/BuiThiDao/theme.git
