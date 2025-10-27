@@ -7,3 +7,6 @@
 [submodule "packages/profile"]
 	path = packages/profile
 	url = https://github.com/BuiThiDao/profile.git
+[submodule "features/pay"]
+	path = features/pay
+	url = https://github.com/BuiThiDao/pay.git
