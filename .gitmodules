@@ -4,3 +4,6 @@
 [submodule "packages/theme_1"]
 	path = packages/theme_1
 	url = https://github.com/BuiThiDao/theme.git
+[submodule "packages/profile"]
+	path = packages/profile
+	url = https://github.com/BuiThiDao/profile.git

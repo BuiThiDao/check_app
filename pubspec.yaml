@@ -10,6 +10,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+  home:
+    path: packages/home
+  profile:
+    path: packages/profile
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
